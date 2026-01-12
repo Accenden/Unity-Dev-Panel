@@ -5,12 +5,12 @@ This was created for debug purposes in big projects, making it much easier to ma
 This project should be compatible with most Unity versions, but only `Unity 6` and above were tested.
 
 Commands are added by attaching new scripts to any `GameObject` that implements the `ICommand` interface,
-look at Command_test for the implementation
+look at Command_test for the implementation.
 
 
-A visual example of the Console:
+**A visual example of the Console:**
 
-<p align="center">
+<p align="left">
   <img src="https://i.imgur.com/WCNg4eR.png" width="700" alt="Command Console Example" />
 </p>
 
