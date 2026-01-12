@@ -1,0 +1,11 @@
+
+*.meta
+
+
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+
+InitTestScene*.unity.meta
+InitTestScene*.unity
