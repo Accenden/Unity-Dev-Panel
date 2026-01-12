@@ -4,7 +4,9 @@ A simple, modular **Command Console system** for Unity written in **C#**, design
 This was created for debug purposes in big projects, making it much easier to make a new Command simply by adding a new script with logic.  
 This project should be compatible with most Unity versions, but only `Unity 6` and above were tested.
 
-Commands are added by attaching new scripts to any `GameObject` that implements the `ICommand` interface.
+Commands are added by attaching new scripts to any `GameObject` that implements the `ICommand` interface,
+look at Command_test for the implementation
+
 
 A visual example of the Console:
 
