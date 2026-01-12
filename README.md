@@ -1,4 +1,4 @@
-# Modular Command Console System for Unity
+# Modular Developer Console System for Unity
 
 A simple, modular **Command Console system** for Unity written in **C#**, designed to be easily expandable and developer-friendly.  
 This was created for debug purposes in big projects, making it much easier to make a new Command simply by adding a new script with logic.  
