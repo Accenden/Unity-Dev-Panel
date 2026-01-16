@@ -16,10 +16,10 @@ look at Command_test for the implementation.
 
 ## Features
 
-- ✅ Modular command registration (drop-in commands)
-- ✅ Clean separation of **UI** and **command logic**
-- ✅ Easily expandable command set (add commands without editing core code)
-- ✅ Optional: aliases, help text, argument parsing
+-  Modular command registration (drop-in commands)
+-  Clean separation of **UI** and **command logic**
+-  Easily expandable command set (add commands without editing core code)
+-  Optional: aliases, help text, argument parsing
 
 #### This is a simple example of GameObjects layout for the Core logic where Dev Console is the Canvas.
 
